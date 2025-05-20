@@ -7,11 +7,6 @@ else:
 
 
 
-
-
-
-
-
     nome = input("escreva seu nome")
 nota = float(input("escreva sua nota"))
 if nota>= 9.0 and nota <= 10.0: 
