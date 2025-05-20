@@ -6,7 +6,7 @@ else:
     print("acesso não liberado")
 
 
-
+notas
     nome = input("escreva seu nome")
 nota = float(input("escreva sua nota"))
 if nota>= 9.0 and nota <= 10.0: 
@@ -25,7 +25,7 @@ else:
 
 
 
-
+humor 
 
 nome = input("escreva seu nome")
 nivel = float(input("escreva seu nivel"))
